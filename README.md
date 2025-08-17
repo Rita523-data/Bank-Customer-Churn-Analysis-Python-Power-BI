@@ -138,7 +138,7 @@ Bank-Customer-Churn-Analysis/
 
 # Power BI Dashboard
 
-[Dashboard Screenshot]
+[Dashboard Screenshot](Dashboard Screenshot.png)
 
 
 # Key Findings
