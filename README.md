@@ -138,7 +138,7 @@ Bank-Customer-Churn-Analysis/
 
 # Power BI Dashboard
 
-[Dashboard Screenshot](Dashboard Screenshot.png)
+[Dashboard Screenshot]((https://github.com/Rita523-data/Bank-Customer-Churn-Analysis-Python-Power-BI/blob/main/Dashboard%20Screenshot.png)
 
 
 # Key Findings
