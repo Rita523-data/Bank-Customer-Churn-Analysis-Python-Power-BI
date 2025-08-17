@@ -7,7 +7,7 @@ This project focuses on analyzing customer churn in a retail bank. Customer chur
 
 # Interactive Dashboard link :
 
-[Click here to View]()
+[Click here to View](https://app.powerbi.com/view?r=eyJrIjoiYjlkZjJmNjAtNDljNC00ZDJjLTkxNWMtZTIzY2Y5NzJkMzJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Table Of Contents 
 
